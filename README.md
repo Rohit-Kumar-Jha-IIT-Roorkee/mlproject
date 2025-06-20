@@ -46,6 +46,6 @@ python app.py
 **Rohit Kumar Jha**  
 B.Tech @ IIT Roorkee  
 
- [LinkedIn](https://www.linkedin.com/in/rohit-kumar-jha-428699273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+ 🔗[LinkedIn](https://www.linkedin.com/in/rohit-kumar-jha-428699273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
  
-  [GitHub](https://github.com/Rohit-Kumar-Jha-IIT-Roorkee)
+  🔗[GitHub](https://github.com/Rohit-Kumar-Jha-IIT-Roorkee)
