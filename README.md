@@ -13,7 +13,7 @@ A machine learning web application built with **Flask** that predicts a student'
 ##  Features
 
 - Predicts student exam scores using a trained ML model
-- Clean and user-friendly frontend (HTML + Bootstrap-ready)
+- Clean and user-friendly frontend (HTML ready)
 - Deployable on Render with one-click integration
 - Handles preprocessing and model inference on server side
 - Logs user input and predictions (extendable for analytics)
